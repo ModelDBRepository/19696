@@ -46,6 +46,4 @@ Questions on how to use this model should be directed to michele.migliore@pa.ibf
 04 July 2003  -  M. Migliore
 A bug in the vhalfl variable declaration in h.mod required a change of ghd in fig4.hoc (from 0.0002 to 0.0005) to obtain the same results.
 
----
-
-2025-05-27 – Standardized to Markdown.
+27 May 2025  -  Standardized to Markdown.
